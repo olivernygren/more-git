@@ -1,3 +1,3 @@
-function printRandomColor() {
+function printRandomNumber() {
     console.log('hej');
 }
